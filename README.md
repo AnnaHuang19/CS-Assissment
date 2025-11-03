@@ -38,7 +38,8 @@ energy-access-analysis/
 ├── Energy_Access_Analysis.R                  
 ├── Energy_Access_Analysis.qmd                
 ├── Number_of_people_with_and_without_energy_access.csv 
-
-├── README.md                                
-├── Energy_Access_Analysis.html               
-└── html_derived_files/                      
+├── README.md                               
+├── Energy_Access_Analysis.html              
+├── html_derived_files/                      
+└── plots/                                   
+                   
