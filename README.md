@@ -1,5 +1,5 @@
 # CS-Assissment
-# Energy Access Analysis in R
+## Energy Access Analysis in R
 
 This project analyzes global energy access data, focusing on electricity and clean cooking fuel accessibility for selected countries (India and China).  
 It uses R for data processing, visualization, and comparative analysis of access trends, annual improvements, and correlations between electricity and clean fuel access rates.
